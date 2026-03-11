@@ -1,0 +1,9 @@
+1)rm löscht die Datei aus dem Datensystem
+und git rm Löscht es auch Aus dem Arbeits Verzeichnis aber auch aus dem Stagin Beriech.
+2)
+rm mit: git restore datei.txt
+
+git rm mit: git restore --staged datei.txt
+git restore datei.txt
+
+3) git Rm da die Änderung auch im stageing berich gemacht wirt

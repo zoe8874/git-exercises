@@ -1,0 +1,5 @@
+2)git log -3 --name-only:foo.txt 
+zeig dir dei letzten 3 comits der Dati foo.txt an
+
+alle enderungen seit dem 8.03.20026  anshenen
+git log --since="2026-01-01" --short
